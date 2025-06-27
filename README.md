@@ -1,7 +1,7 @@
 <h1 align="center">🌟 E-Commerce Mobile App UI/UX Design – Concept 03</h1>
 
 <p align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=YOUR_IMAGE_FILE_ID](https://drive.google.com/file/d/1kj3JTL8unkSKRmeLXqQqz7yEgIE8slDZ/view?usp=sharing)" alt="E-Commerce App Preview" width="600"/>
+  <img src="[[https://drive.google.com/uc?export=view&id=YOUR_IMAGE_FILE_ID](https://drive.google.com/file/d/1kj3JTL8unkSKRmeLXqQqz7yEgIE8slDZ/view?usp=sharing](https://drive.google.com/file/d/1kj3JTL8unkSKRmeLXqQqz7yEgIE8slDZ/view?usp=sharing))" alt="E-Commerce App Preview" width="600"/>
 </p>
 
 <p align="center">
@@ -29,13 +29,12 @@ This is my **third concept**, created with real users in mind, focusing on clear
 
 ## 🔗 Project Files (Click to View or Download)
 
-| Type        | Link                                                                 |
-|-------------|----------------------------------------------------------------------|
-| 📸 UI Preview Image | [View PNG]([https://drive.google.com/file/d/YOUR_IMAGE_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1kj3JTL8unkSKRmeLXqQqz7yEgIE8slDZ/view?usp=sharing))                |
-| 🎬 Prototype Walkthrough | [Watch MP4]([https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1CSWONSXe8RrzT-4tYF8k1WnEtfFHhNbZ/view?usp=sharing))             |
-| 🎨 Figma Source File | [Download FIG]([https://drive.google.com/file/d/YOUR_FIGMA_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1ke5FlvyK82FgKGOc-D6QaT36okS520xP/view?usp=sharing))              |
+| Type                     | Link                                                                 |
+|--------------------------|----------------------------------------------------------------------|
+| 📸 UI Preview Image      | [View PNG]([[https://drive.google.com/file/d/1ABCDEF_PNG_ID/view?usp=sharing](https://drive.google.com/file/d/1CSWONSXe8RrzT-4tYF8k1WnEtfFHhNbZ/view?usp=sharing)](https://drive.google.com/file/d/1kj3JTL8unkSKRmeLXqQqz7yEgIE8slDZ/view?usp=sharing))        |
+| 🎬 Prototype Walkthrough | [Watch MP4]([https://drive.google.com/file/d/1XYZ123_MP4_ID/view?usp=sharing](https://drive.google.com/file/d/1CSWONSXe8RrzT-4tYF8k1WnEtfFHhNbZ/view?usp=sharing))       |
+| 🎨 Figma Source File     | [Download FIG]([https://drive.google.com/file/d/1LMNOPQ_FIG_ID/view?usp=sharing](https://drive.google.com/file/d/1ke5FlvyK82FgKGOc-D6QaT36okS520xP/view?usp=sharing))    |
 
----
 
 ## 🛠️ Tools Used
 
